@@ -1,1 +1,1 @@
-# -Food-template-Banner
+A banner-template with Main-nav & Side-nav.
